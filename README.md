@@ -1,5 +1,9 @@
 # HashMapDictionary
-This project creates a HashMap
+This project creates a HashMap. The HashTable class actually defines the HashMap and the HashTableDriver class tests the HashTable class.
+
+Imperfections of my code:
+- Though it is very, very rare, key collisions could occur if the concatenations of the the Unicode values of the chars in a key modded by prime number 601 match that of another key.
+- The key strings cannot be too big because of the limitations of the Integer.parseInt() static method, which cannot process extremely large numbers.
 
 Challenge One
 
