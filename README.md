@@ -18,4 +18,4 @@ Challenge Three
 
 Take a look at Java's HashMap class and how it produces hashed values. (You may have to look at other classes to find the actual mathematical function! Follow the trail of breadcrumbs...)
 
-Yes, I this this.
+Yes, I did this.
