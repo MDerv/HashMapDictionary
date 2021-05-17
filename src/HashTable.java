@@ -1,3 +1,9 @@
+/* Dhruv Sharma
+4/27/2021
+5/5/2021
+This file defines the HashTable class by making a HashMap.
+*/
+
 import java.util.*;
 
 public class HashTable {

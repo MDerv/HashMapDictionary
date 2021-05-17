@@ -1,3 +1,9 @@
+/* Dhruv Sharma
+4/27/2021
+5/5/2021
+This file is the driver for the HashTable class.
+*/
+
 public class HashTableDriver {
     public static void main(String[] args) {
         HashTable h = new HashTable(10000);
